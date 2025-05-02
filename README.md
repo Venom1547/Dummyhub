@@ -4,6 +4,11 @@ A full-stack authentication and dashboard web application built using the MERN s
 
 ---
 
+## Demo Video Link
+https://drive.google.com/file/d/1l6baB3MuETcuSXo7Fg4GEKw_cPQCwvQ_/view?usp=sharing
+
+---
+
 ## 🚀 Features
 
 - User authentication (Signup/Login) with JWT
@@ -84,6 +89,9 @@ Backend routes are protected using middleware that verifies the JWT token.
 Passwords are hashed using bcryptjs before saving to the database.
 
 ---
+
 ## 📝 License
 This project is licensed under the MIT License.
+
+
 
