@@ -49,6 +49,8 @@ npm install
 
 ### 3. Setup environment variables
 ```bash
+Create .env file and setup given envioronment variables:
+
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
