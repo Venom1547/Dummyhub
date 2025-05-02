@@ -51,7 +51,6 @@ npm install
 ```bash
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-VITE_API_URL=http://localhost:5000/api
 ```
 
 ### 4.Start Backend server
