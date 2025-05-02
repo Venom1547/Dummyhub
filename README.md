@@ -1,4 +1,4 @@
-# MERN Auth & Dashboard Web App
+# Dummyhub:MERN Auth & Dashboard Web App
 
 A full-stack authentication and dashboard web application built using the MERN stack (MongoDB, Express, React, Node.js) and Vite. Users can sign up, log in, and view protected dashboard data fetched from the DummyJSON API.
 
@@ -25,13 +25,6 @@ A full-stack authentication and dashboard web application built using the MERN s
 
 ---
 
-## 📁 Project Structure
-
-. ├── backend/ │ └── server.js # Entry point for Express backend ├── src/ # React frontend │ └── components/ │ └── pages/ ├── public/ ├── .env ├── package.json └── vite.config.js
-
-
----
-
 ## 🔧 Prerequisites
 
 - Node.js (v18+ recommended)
@@ -45,8 +38,8 @@ A full-stack authentication and dashboard web application built using the MERN s
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mern-auth-dashboard.git
-cd mern-auth-dashboard
+git clone https://github.com/Venom1547/Dummyhub.git
+cd Dummyhub
 ```
 
 ### 2. Install dependencies
